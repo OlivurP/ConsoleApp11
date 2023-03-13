@@ -12,6 +12,7 @@ namespace ConsoleApp11
         {
             Console.WriteLine("Hello world");
             Console.WriteLine("Hej igen");
+            Console.WriteLine("Nu er det god nat");
         }
     }
 }
